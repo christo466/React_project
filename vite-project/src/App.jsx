@@ -1,8 +1,8 @@
-// import React from 'react';
+
 import  { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './Pages/Home/Home'; // Import the Home component
-import Dash from './Pages/Dash'; // Import the Dash component
+import Home from './Pages/Home/Home'; 
+import Dash from './Pages/Dash'; 
 import About from './Pages/About'; 
 
 function App() {

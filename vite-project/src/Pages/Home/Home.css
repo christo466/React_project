@@ -3,7 +3,7 @@
 .home {
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* Full viewport height */
+  min-height: 100vh; 
 }
 .bordered-div {
   border: 2px solid #000;
